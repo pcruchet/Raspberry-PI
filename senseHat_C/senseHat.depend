@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1450445545 source:/home/pi/langageC/senseHat/sensehat.c
+	"senseHat.h"
+
+1451472386 /home/pi/langageC/senseHat/senseHat.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<dirent.h>
+	<linux/fb.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<string.h>
+	<fcntl.h>
+	<unistd.h>
+	<termios.h>
+	<linux/input.h>
+
